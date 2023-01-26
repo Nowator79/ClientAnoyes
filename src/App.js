@@ -29,7 +29,7 @@ function App() {
 	const sendPing = () => {
 		socket.emit("pong", { a: "b", c: [] });
 	}
-
+	
 	return (
 		<div>
 			<p>Connected: { '' + isConnected }</p>
