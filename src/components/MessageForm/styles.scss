@@ -1,0 +1,45 @@
+.messages_form{
+	height: 220px;
+	background-image: url(/img/messageForm.svg);
+	background-position: center;
+	background-size: 100%;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	.message_form__block{
+		background-color: $white;
+		height: 100%;
+		border-radius: 30px;
+		display: flex;
+		justify-content: space-between;
+		textarea{
+			margin: 10px;
+			border: none;
+			resize: none;
+			height: calc(100% - 20px);
+			width: calc(100% - 220px);
+			&:focus{
+				outline: none;
+			}
+		}
+		.right_block{
+			height: 100%;
+			display: flex;
+			flex-direction: column-reverse;
+			padding: 5px;
+			button{
+				border: none;
+				background: #9D7AE5;
+				border-radius: 30px;
+				line-height: 22px;
+				letter-spacing: 0.3em;
+				text-transform: uppercase;
+				font-size: 14px;
+				color: $white;
+				padding: 10px 20px;
+				&:focus{
+					outline: none;
+				}
+			}
+		}
+	}
+}

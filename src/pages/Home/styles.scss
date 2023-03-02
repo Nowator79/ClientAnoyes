@@ -1,0 +1,6 @@
+.main{
+	height: calc(100vh - #{$height_top});
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}

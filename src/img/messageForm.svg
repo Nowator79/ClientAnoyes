@@ -1,0 +1,20 @@
+<svg width="1920" height="220" viewBox="0 0 1920 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H1920V220H0V0Z" fill="#121453"/>
+<path opacity="0.25" d="M0 0H853V220H0V0Z" fill="url(#paint0_linear_2_1582)"/>
+<path opacity="0.25" d="M1922 220L1071 220L1071 4.8877e-05L1922 0.000100672L1922 220Z" fill="url(#paint1_linear_2_1582)"/>
+<rect x="68" width="220" height="0.999981" transform="rotate(90 68 0)" fill="#8192CD" fill-opacity="0.15"/>
+<rect x="1853" width="220" height="0.999981" transform="rotate(90 1853 0)" fill="#8192CD" fill-opacity="0.15"/>
+<rect y="21.1326" width="1920" height="0.377358" fill="#8192CD" fill-opacity="0.15"/>
+<defs>
+<linearGradient id="paint0_linear_2_1582" x1="853" y1="123.924" x2="3.94263e-06" y2="123.924" gradientUnits="userSpaceOnUse">
+<stop offset="0.427083" stop-color="#0085FF" stop-opacity="0"/>
+<stop offset="0.744792" stop-color="#0648F1"/>
+<stop offset="1" stop-color="#8F00FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_1582" x1="1071" y1="96.0759" x2="1922" y2="96.076" gradientUnits="userSpaceOnUse">
+<stop offset="0.427083" stop-color="#0085FF" stop-opacity="0"/>
+<stop offset="0.744792" stop-color="#0648F1"/>
+<stop offset="1" stop-color="#8F00FF"/>
+</linearGradient>
+</defs>
+</svg>

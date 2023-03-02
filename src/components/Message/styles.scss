@@ -1,0 +1,18 @@
+.message{
+	justify-content: end;
+	display: flex;
+	.message_box{
+		min-height: 100px;
+		padding: 20px;
+		max-width: min-content;
+		min-width: 50%;
+		background-color: #007ae5;
+
+	}
+	&.received{
+		justify-content: start;
+		.message_box{
+			background-color: #9d7ae5;
+		}
+	}
+}
